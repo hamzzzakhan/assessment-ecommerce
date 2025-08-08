@@ -1,0 +1,241 @@
+[
+  {
+    "id": "1",
+    "title": "Premium Wireless Headphones",
+    "name": "Premium Wireless Headphones",
+    "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life. Perfect for music lovers and professionals.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "price": "199.99",
+    "originalPrice": "249.99",
+    "stock": 15,
+    "category": "electronics",
+    "variants": [
+      {
+        "id": "1-black",
+        "name": "Black",
+        "price": "199.99",
+        "stock": 8
+      },
+      {
+        "id": "1-white",
+        "name": "White",
+        "price": "199.99",
+        "stock": 7
+      },
+      {
+        "id": "1-blue",
+        "name": "Blue",
+        "price": "209.99",
+        "stock": 0
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Organic Cotton T-Shirt",
+    "name": "Organic Cotton T-Shirt",
+    "description": "Comfortable and sustainable organic cotton t-shirt. Available in multiple sizes and colors.",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500",
+    "price": "29.99",
+    "originalPrice": "39.99",
+    "stock": 25,
+    "category": "clothing",
+    "variants": [
+      {
+        "id": "2-s-black",
+        "name": "Small - Black",
+        "price": "29.99",
+        "stock": 5
+      },
+      {
+        "id": "2-m-black",
+        "name": "Medium - Black",
+        "price": "29.99",
+        "stock": 8
+      },
+      {
+        "id": "2-l-black",
+        "name": "Large - Black",
+        "price": "29.99",
+        "stock": 6
+      },
+      {
+        "id": "2-s-white",
+        "name": "Small - White",
+        "price": "29.99",
+        "stock": 3
+      },
+      {
+        "id": "2-m-white",
+        "name": "Medium - White",
+        "price": "29.99",
+        "stock": 3
+      },
+      {
+        "id": "2-l-white",
+        "name": "Large - White",
+        "price": "29.99",
+        "stock": 0
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Smart Watch Series 8",
+    "name": "Smart Watch Series 8",
+    "description": "Advanced smartwatch with health monitoring, GPS tracking, and smartphone integration. Water resistant up to 50 meters.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500",
+    "price": "399.99",
+    "stock": 12,
+    "category": "electronics",
+    "variants": [
+      {
+        "id": "3-42mm",
+        "name": "42mm",
+        "price": "399.99",
+        "stock": 6
+      },
+      {
+        "id": "3-46mm",
+        "name": "46mm",
+        "price": "449.99",
+        "stock": 6
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Leather Wallet",
+    "name": "Genuine Leather Wallet",
+    "description": "Handcrafted genuine leather wallet with RFID blocking technology. Multiple card slots and cash compartments.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
+    "price": "79.99",
+    "stock": 20,
+    "category": "accessories",
+    "variants": [
+      {
+        "id": "4-brown",
+        "name": "Brown",
+        "price": "79.99",
+        "stock": 12
+      },
+      {
+        "id": "4-black",
+        "name": "Black",
+        "price": "79.99",
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Coffee Maker Pro",
+    "name": "Professional Coffee Maker",
+    "description": "Professional-grade coffee maker with programmable settings and thermal carafe. Perfect for coffee enthusiasts.",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=500",
+    "price": "159.99",
+    "stock": 0,
+    "category": "appliances"
+  },
+  {
+    "id": "6",
+    "title": "Running Shoes",
+    "name": "Athletic Running Shoes",
+    "description": "Lightweight and comfortable running shoes with advanced cushioning technology. Perfect for daily runs and workouts.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+    "price": "129.99",
+    "originalPrice": "169.99",
+    "stock": 30,
+    "category": "shoes",
+    "variants": [
+      {
+        "id": "6-7-black",
+        "name": "Size 7 - Black",
+        "price": "129.99",
+        "stock": 3
+      },
+      {
+        "id": "6-8-black",
+        "name": "Size 8 - Black",
+        "price": "129.99",
+        "stock": 5
+      },
+      {
+        "id": "6-9-black",
+        "name": "Size 9 - Black",
+        "price": "129.99",
+        "stock": 7
+      },
+      {
+        "id": "6-10-black",
+        "name": "Size 10 - Black",
+        "price": "129.99",
+        "stock": 4
+      },
+      {
+        "id": "6-7-white",
+        "name": "Size 7 - White",
+        "price": "129.99",
+        "stock": 2
+      },
+      {
+        "id": "6-8-white",
+        "name": "Size 8 - White",
+        "price": "129.99",
+        "stock": 0
+      },
+      {
+        "id": "6-9-white",
+        "name": "Size 9 - White",
+        "price": "129.99",
+        "stock": 6
+      },
+      {
+        "id": "6-10-white",
+        "name": "Size 10 - White",
+        "price": "129.99",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Bluetooth Speaker",
+    "name": "Portable Bluetooth Speaker",
+    "description": "Compact and powerful portable speaker with 360-degree sound and 12-hour battery life. Perfect for outdoor adventures.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500",
+    "price": "89.99",
+    "stock": 18,
+    "category": "electronics",
+    "variants": [
+      {
+        "id": "7-red",
+        "name": "Red",
+        "price": "89.99",
+        "stock": 6
+      },
+      {
+        "id": "7-blue",
+        "name": "Blue",
+        "price": "89.99",
+        "stock": 7
+      },
+      {
+        "id": "7-black",
+        "name": "Black",
+        "price": "89.99",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Gaming Mouse",
+    "name": "Pro Gaming Mouse",
+    "description": "High-precision gaming mouse with customizable RGB lighting and programmable buttons. Designed for competitive gaming.",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500",
+    "price": "69.99",
+    "stock": 0,
+    "category": "electronics"
+  }
+]
